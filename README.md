@@ -478,17 +478,7 @@ Built a foundation in embedded development, industrial automation, and electrica
 
 ---
 
-## 10. GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Vishnuprakash-JaganMohan&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 11. Contribution Activity
+## 10. Contribution Activity
 
 <div align="center">
 
@@ -498,17 +488,27 @@ Built a foundation in embedded development, industrial automation, and electrica
 
 ---
 
-## 12. Contribution Snake
+## 11. Contribution Snake
 
-<div align="center">
+### 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/Vishnuprakash-JaganMohan/Vishnuprakash-JaganMohan/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation"/>
-
-</div>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Vishnuprakash-JaganMohan/Vishnuprakash-JaganMohan/output/github-contribution-grid-snake-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Vishnuprakash-JaganMohan/Vishnuprakash-JaganMohan/output/github-contribution-grid-snake.svg">
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Vishnuprakash-JaganMohan/Vishnuprakash-JaganMohan/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ---
 
-## 13. Current Focus
+## 12. Current Focus
 
 ```yaml
 profile:
