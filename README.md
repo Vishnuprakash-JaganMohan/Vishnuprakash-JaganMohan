@@ -466,13 +466,13 @@ Built a foundation in embedded development, industrial automation, and electrica
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A5B4FC&icon_color=818CF8&text_color=C9D1D9&rank_icon=github" alt="GitHub Statistics"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vishnuprakash-JaganMohan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A5B4FC&icon_color=818CF8&text_color=C9D1D9&rank_icon=github" alt="GitHub Statistics"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=A5B4FC&text_color=C9D1D9" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnuprakash-JaganMohan&layout=compact&hide_border=true&bg_color=0D1117&title_color=A5B4FC&text_color=C9D1D9" alt="Top Languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=6366F1&fire=A5B4FC&currStreakLabel=A5B4FC&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Contribution Streak"/>
+<img src="https://streak-stats.demolab.com?user=Vishnuprakash-JaganMohan&hide_border=true&background=0D1117&ring=6366F1&fire=A5B4FC&currStreakLabel=A5B4FC&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Contribution Streak"/>
 
 </div>
 
@@ -482,7 +482,7 @@ Built a foundation in embedded development, industrial automation, and electrica
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Vishnuprakash-JaganMohan&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
 
 </div>
 
@@ -492,7 +492,7 @@ Built a foundation in embedded development, industrial automation, and electrica
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=A5B4FC&line=6366F1&point=C4B5FD&area=true&area_color=312E81&hide_border=true" width="100%" alt="GitHub Contribution Activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishnuprakash-JaganMohan&bg_color=0D1117&color=A5B4FC&line=6366F1&point=C4B5FD&area=true&area_color=312E81&hide_border=true" width="100%" alt="GitHub Contribution Activity"/>
 
 </div>
 
@@ -502,7 +502,7 @@ Built a foundation in embedded development, industrial automation, and electrica
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation"/>
+<img src="https://raw.githubusercontent.com/Vishnuprakash-JaganMohan/Vishnuprakash-JaganMohan/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation"/>
 
 </div>
 
